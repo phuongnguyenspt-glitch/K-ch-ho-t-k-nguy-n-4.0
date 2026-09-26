@@ -1,0 +1,36 @@
+===================================================================
+HƯỚNG DẪN SỬ DỤNG OFFLINE: GAME "KÍCH HOẠT KỶ NGUYÊN 4.0"
+Môn: Tin học 10 · Cánh Diều · Bài 4: Tin học trong phát triển KT-XH
+===================================================================
+
+Trò chơi đã được đóng gói thành 1 file duy nhất (Single-File HTML).
+KHÔNG cần cài đặt Node.js hay chạy bất kỳ lệnh nào!
+KHÔNG cần Internet!
+KHÔNG cần API Key!
+KHÔNG phát sinh bất kỳ chi phí nào!
+
+-------------------------------------------------------------------
+CÁCH MỞ TRÒ CHƠI CỰC KỲ ĐƠN GIẢN:
+-------------------------------------------------------------------
+
+👉 Cách 1 (Khuyên dùng cho mọi máy tính Windows, Mac, Linux):
+   Nhấp đúp chuột trực tiếp vào file:
+   KICH_HOAT_KY_NGUYEN_4.0.html
+   (Trò chơi sẽ mở ngay trên trình duyệt Chrome, Edge, Cốc Cốc hoặc Safari).
+
+👉 Cách 2 (Dành cho máy tính Windows):
+   Nhấp đúp chuột vào file:
+   Mo_Tro_Choi_Windows.bat
+
+👉 Cách 3 (Dành cho máy tính macOS):
+   Nhấp đúp chuột vào file:
+   Mo_Tro_Choi_Mac.command
+
+-------------------------------------------------------------------
+MẸO TRÌNH CHIẾU TRÊN LỚP HỌC:
+-------------------------------------------------------------------
+- Bấm biểu tượng ⛶ (ở góc trên bên phải) để bật chế độ TOÀN MÀN HÌNH (Full Screen).
+- Bấm 🔊 để bật/tắt âm thanh công nghệ.
+- Bấm phím A/B/C/D hoặc 1/2/3/4 trên bàn phím để chọn phương án nhanh.
+- Bấm Phím Cách (Space) hoặc Enter để công bố đáp án và chuyển tiếp.
+===================================================================

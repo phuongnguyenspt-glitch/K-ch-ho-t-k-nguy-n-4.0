@@ -1,0 +1,6 @@
+{
+  "name": "Kích Hoạt Kỷ Nguyên 4.0 - Game Luyện Tập Tin Học 10",
+  "description": "Web game học tập tương tác môn Tin học 10 Cánh Diều - Bài 4: Tin học trong phát triển kinh tế – xã hội.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
